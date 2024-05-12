@@ -188,10 +188,6 @@
 						}
 					},
 					"staging": {
-						"linkedService": {
-							"referenceName": "AzureBlobStorage1",
-							"type": "LinkedServiceReference"
-						},
 						"folderPath": "dirstaging"
 					},
 					"compute": {
